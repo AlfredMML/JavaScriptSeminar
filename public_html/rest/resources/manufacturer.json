@@ -1,0 +1,61 @@
+[{"manufacturerId":19985678,
+        "name":"Cinderella",
+        "zip":"img/Cinderella.jpg"
+        },
+    {"manufacturerId":19986982,
+        "name":"Chappie",
+        "zip":"img/chapie.jpg"
+        },
+    {"manufacturerId":19974892,
+        "name":"Marvel's The Avengers 2: Age of Ultron",
+        "zip":"img/avengers.jpg"
+        },
+    {"manufacturerId":19986196,
+        "name":"Fantastic Four",
+        "zip":"img/fantastic.jpg"
+        },
+    {"manufacturerId":19978451,
+        "name":"Focus",
+        "zip":"img/focus.jpg"
+        },
+    {"manufacturerId":19982461,
+        "name":"50 Shades of Grey",
+        "zip":"img/grey.jpg"
+        },
+    {"manufacturerId":19984899,
+        "name":"Inside Out",
+        "zip":"img/insideout.jpg"
+        },
+    {"manufacturerId":19965794,
+        "name":"Jupiter Ascending",
+        "zip":"img/Jupiter.jpg"
+        },
+    {"manufacturerId":19955656,
+        "name":"Mad Max: Fury Road",
+        "zip":"img/madmax.jpg"
+        },
+    {"manufacturerId":19989719,
+        "name":"Mission Impossible 5",
+        "zip":"img/mi5.jpg"
+        },
+    {"manufacturerId":19977775,
+        "name":"Magic Mike XXL",
+        "zip":"img/mike.jpg"
+        },
+    {"manufacturerId":19948494,
+        "name":"Paper Towns",
+        "zip":"img/paper.jpg"
+        },
+    {"manufacturerId":19971233,
+        "name":"Pixels",
+        "zip":"img/pixels.jpg"
+        },
+    {"manufacturerId":19980198,
+        "name":"San Andreas",
+        "zip":"img/sanandreas.jpg"
+        },
+    {"manufacturerId":19960022,
+        "name":"Star Wars: The Force Awakens",
+        "zip":"img/starwars.jpg"
+        }
+    ]
